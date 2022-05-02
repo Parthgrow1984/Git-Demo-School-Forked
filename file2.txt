@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello How are you. Hello fixing bug for stash command
+=======
+Hello I am trying out stash
+>>>>>>> activity1
